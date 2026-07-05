@@ -1,0 +1,20 @@
+[36ba6179-0b70-403a-aa84-a004f0d3b75f]
+Description=Settings for com.shellyorg.shelly
+maximizehoriz=true
+maximizehorizrule=4
+maximizevert=true
+maximizevertrule=4
+wmclass=com.shellyorg.shelly
+wmclassmatch=1
+
+[General]
+count=1
+rules=36ba6179-0b70-403a-aa84-a004f0d3b75f
+
+[a8d7e068-0110-43fe-b5b8-01f10cc24ced]
+maximizehorizrule=4
+maximizevertrule=4
+title=Shelly
+wmclass=shelly-ui com.shellyorg.shelly
+wmclasscomplete=true
+wmclassmatch=1
