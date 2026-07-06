@@ -1,1 +1,2 @@
+minecraft-launcher
 whatsapp-linux-desktop

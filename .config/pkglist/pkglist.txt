@@ -144,6 +144,7 @@ mdadm
 meld
 mesa-utils
 micro
+minecraft-launcher
 mkinitcpio
 modemmanager
 mtools
@@ -187,7 +188,6 @@ poppler-glib
 power-profiles-daemon
 powerdevil
 pv
-pycharm-community-edition
 python
 python-defusedxml
 python-packaging
