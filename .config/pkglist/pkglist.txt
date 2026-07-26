@@ -235,3 +235,5 @@ xl2tpd
 xsettingsd
 yadm
 yay
+zed
+zen-browser-bin
