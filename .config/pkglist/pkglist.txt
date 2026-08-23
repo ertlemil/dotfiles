@@ -111,6 +111,7 @@ kdeconnect
 kdegraphics-thumbnailers
 kdeplasma-addons
 kdialog
+kicad
 kinfocenter
 kio-admin
 konsole
