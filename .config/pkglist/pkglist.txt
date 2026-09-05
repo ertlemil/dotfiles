@@ -44,6 +44,7 @@ cachyos-v3-mirrorlist
 cachyos-v4-mirrorlist
 cachyos-wallpapers
 cachyos-zsh-config
+caligula
 cantarell-fonts
 char-white
 chwd
