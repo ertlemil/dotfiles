@@ -115,6 +115,7 @@ kdialog
 kicad
 kinfocenter
 kio-admin
+kolourpaint
 konsole
 kscreen
 kwallet-pam
