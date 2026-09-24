@@ -97,7 +97,7 @@ gst-plugins-ugly
 gwenview
 haruna
 hdparm
-heroic-games-launcher-bin
+heroic-games-launcher
 hplip
 hwdetect
 hwinfo
