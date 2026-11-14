@@ -80,9 +80,11 @@ foomatic-db-gutenprint-ppds
 foomatic-db-nonfree
 foomatic-db-nonfree-ppds
 foomatic-db-ppds
+freecad
 fsarchiver
 fwupd
 gamescope
+gcc
 gimp
 git
 glances
